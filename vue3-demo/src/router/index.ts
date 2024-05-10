@@ -18,11 +18,6 @@ const router = createRouter({
       path: '/dialog',
       name: 'dialog',
       component: () => import('@/views/elDialog.vue')
-    },
-    {
-      path: '/video',
-      name: 'video',
-      component: () => import('@/views/gVideo.vue')
     }
   ]
 })
