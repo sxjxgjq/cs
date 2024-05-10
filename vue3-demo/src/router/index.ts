@@ -10,11 +10,6 @@ const router = createRouter({
       component: HomeView
     },
     {
-      path: '/map',
-      name: 'map',
-      component: () => import('@/views/baiduMap.vue')
-    },
-    {
       path: '/dialog',
       name: 'dialog',
       component: () => import('@/views/elDialog.vue')
