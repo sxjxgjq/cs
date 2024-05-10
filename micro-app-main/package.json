@@ -13,7 +13,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "@micro-zoe/micro-app": "1.0.0-rc.4",
+    "@micro-zoe/micro-app": "1.0.0-rc.5",
     "element-plus": "^2.1.11",
     "pinia": "^2.1.7",
     "sass": "^1.75.0",
